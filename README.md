@@ -1,8 +1,8 @@
 Repository : design-system
 
 README.md
+README.md
 
-```markdown
 # GitDigital Design System
 
 [![Solana](https://img.shields.io/badge/Solana-Devnet-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://solana.com)
